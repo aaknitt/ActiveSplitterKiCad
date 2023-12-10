@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ActiveSplitter-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/ActiveSplitter-eagle-import.lib")(options "")(descr ""))
+  (lib (name "ActiveSplitter-rescue")(type "KiCad")(uri "${KIPRJMOD}/ActiveSplitter-rescue.kicad_sym")(options "")(descr ""))
+)
