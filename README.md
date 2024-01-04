@@ -1,6 +1,8 @@
 # ActiveSplitter Multicoupler
 Hardware design for an active RF splitter for use with RTL-SDR receivers in the 100 MHz to 1 GHz band.  Not intended to be a piece of precision test equipment, but something inexpensive and "good enough" to use for general radio monitoring and scanning activities in a smaller and more convenient form factor than cable TV splitters or conventional higher end multicouplers.  
 
+![Picture](https://github.com/aaknitt/ActiveSplitterKiCad/blob/main/ActiveSplitterPicture.jpg)
+
 Uses amplifier circuit from [this LNA](https://github.com/fabiobaltieri/lna) design.
 
 Design files are in KiCad format.
